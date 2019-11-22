@@ -1,2 +1,2 @@
 # Test
-Test repo
+Repo for testing signed releases.
